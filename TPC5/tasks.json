@@ -1,0 +1,161 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Jerónimo de Sousa"
+    },
+    {
+      "id": 2,
+      "name": "Cavaco Silva"
+    },
+    {
+      "id": 3,
+      "name": "António Costa"
+    },
+    {
+      "id": 4,
+      "name": "José Silva"
+    },
+    {
+      "id": 5,
+      "name": "João Faria"
+    },
+    {
+      "id": 6,
+      "name": "Marcelo Rebelo de Sousa"
+    },
+    {
+      "id": 7,
+      "name": "Carlos Costa"
+    },
+    {
+      "id": 8,
+      "name": "Abel Silva"
+    },
+    {
+      "id": 9,
+      "name": "Henrique Silvestre"
+    },
+    {
+      "name": "Catarina Varzim",
+      "id": 10
+    },
+    {
+      "name": "Catarina Gomes",
+      "id": 11
+    },
+    {
+      "name": "António Silva",
+      "id": 12
+    },
+    {
+      "name": "António Pereira",
+      "id": 13
+    },
+    {
+      "name": "Gomes de Sá",
+      "id": 14
+    },
+    {
+      "name": "Umberto Delgado",
+      "id": 15
+    },
+    {
+      "name": "Mario Gomes",
+      "id": 17
+    }
+  ],
+  "tasks": [
+    {
+      "date": "2023-03-23",
+      "who": "João Faria",
+      "what": "Reparar telhado",
+      "done": false,
+      "id": 1
+    },
+    {
+      "date": "2023-04-11",
+      "who": "Abel Silva",
+      "what": "Doar Roupa",
+      "done": false,
+      "id": 2
+    },
+    {
+      "date": "2023-05-12",
+      "who": "Carlos Costa",
+      "what": "Atualizar CC",
+      "done": false,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "date": "2023-04-11",
+      "who": "António Costa",
+      "what": "Comprar Roupa",
+      "done": false
+    },
+    {
+      "id": 5,
+      "date": "2023-12-11",
+      "who": "Carlos Costa",
+      "what": "Doar Comida",
+      "done": false
+    },
+    {
+      "id": 6,
+      "date": "2023-05-17",
+      "who": "Cavaco Silva",
+      "what": "Levar comida para a empresa",
+      "done": false
+    },
+    {
+      "date": "2023-05-17",
+      "who": "Cavaco Silva",
+      "what": "Limpar carro",
+      "done": false,
+      "id": 7
+    },
+    {
+      "date": "2023-03-29",
+      "who": "Jerónimo de Sousa",
+      "what": "Limpar o terreno",
+      "done": true,
+      "id": 8
+    },
+    {
+      "date": "2023-05-18",
+      "who": "Henrique Silvestre",
+      "what": "Limpar sala ",
+      "done": false,
+      "id": 10
+    },
+    {
+      "date": "2023-12-18",
+      "who": "Cavaco Silva",
+      "what": "Limpar casa",
+      "done": true,
+      "id": 12
+    },
+    {
+      "date": "2023-03-24",
+      "who": "João Faria",
+      "what": "Lavar Carro",
+      "done": false,
+      "id": 13
+    },
+    {
+      "date": "2023-03-21",
+      "who": "João Faria",
+      "what": "Limpar QUINTAL",
+      "done": false,
+      "id": 14
+    },
+    {
+      "date": "2024-06-05",
+      "who": "Abel Silva",
+      "what": "Arrumar a casa",
+      "done": false,
+      "id": 15
+    }
+  ]
+}
